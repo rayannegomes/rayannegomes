@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> Olá pessoal! :smile: <br><br> Me chamo Rayanne, sou <strong>Desenvolvedora Web FullStack</strong>, sou apaixonada por tecnologia e por desafios. <br> Sempre estou em busca de <strong>novos conhecimentos e novos desafios.</p>&nbsp;
+<p align="center"> Olá pessoal! :smile: <br><br> Me chamo Rayanne, estou estudando e me aperfeiçoando em <strong>UI/UX</strong>, sou apaixonada por tecnologia e por desafios. <br> Sempre estou em busca de <strong>novos conhecimentos e novos desafios.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
